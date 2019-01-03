@@ -13,6 +13,7 @@ import (
  * string
  *
  * // int, uint, uintptr型は、32-bitシステムでは32bit、64-bitシステムでは64bit
+ * // uint = unsigned int (符号なし整数 - 0以上の整数値)
  * int  int8  int16  int32  int64
  * uint uint8 uint16 uint32 uint64 uintptr
  *
